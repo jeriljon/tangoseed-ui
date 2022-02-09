@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Tangoseed</p>
+        <h1>Tangoseed</h1>
+        <h4>Mobile App Development</h4>
       </header>
     </div>
   );
