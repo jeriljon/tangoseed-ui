@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Tangoseed</h1>
-        <h4>Mobile App Development</h4>
+        <h4>Mobile App Development Group</h4>
       </header>
     </div>
   );
